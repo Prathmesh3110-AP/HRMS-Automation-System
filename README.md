@@ -1,2 +1,8 @@
 # HRMS-Automation-System
-HRMS Automation Bot using UiPath that automates HR tasks like leave approvals, resume shortlisting, payslip generation, birthdays &amp; meeting scheduling making HR processes faster, accurate, and employee-friendly.
+How to Open the Project
+Open UiPath Studio on your system.
+Click on Open Project from the start screen.
+Select the project.json file located inside the project folder.
+Once loaded, UiPath Studio will restore the required dependencies automatically.
+Ensure that the Main.xaml file is set as the entry point (Set as Main).
+Click Run to execute the project, or open individual .xaml files to run specific modules.
